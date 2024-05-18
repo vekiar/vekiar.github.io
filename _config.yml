@@ -1,2 +1,11 @@
 title: Vekiar
-theme: jekyll-theme-minimal
+author:
+  name: Mariano Vecchioli
+  email: mrv@vekiar.com
+description: >
+  The search is lonely, and -at the same time, intimately liberating.
+theme: minima
+header_pages:
+  - about.md
+minima:
+  skin: classic
