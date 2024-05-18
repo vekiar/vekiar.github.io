@@ -1,6 +1,6 @@
 ---
 title: mrv
-layour: default
+layour: post
 ---
 
 Who is "Mr. V"?  
