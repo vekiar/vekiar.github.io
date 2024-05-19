@@ -4,6 +4,6 @@ author:
   email: mrv@vekiar.com
 description: >
   The search is lonely, and -at the same time, intimately liberating.
-theme: jekyll-theme-primer
+theme: jekyll-theme-minimal
 header_pages:
   - about.md
