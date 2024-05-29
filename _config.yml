@@ -12,7 +12,7 @@ header_pages:
   - learn.md
   - brain.md
   - ideas.md
-  - notes
+  - notes.md
 minima:
   social_links:
     - { platform: github, user_url: "https://github.com/vekiar" }
