@@ -1,1 +1,0 @@
-./20240519-state_of_telecommunications.md
