@@ -1,6 +1,6 @@
 ---
 title: learn
-layout: page
+layout: base
 ---
 
 This is a space for learning.
