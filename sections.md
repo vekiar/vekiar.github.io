@@ -1,6 +1,5 @@
 ---
 title: Sections
-layout: default
 ---
 
 [Vekiar Learns](./learn)  
