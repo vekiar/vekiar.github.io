@@ -1,4 +1,5 @@
 ---
+title: learn
 layout: page
 ---
 

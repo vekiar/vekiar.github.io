@@ -1,3 +1,4 @@
 ---
+title: ideas
 layout: base
 ---
