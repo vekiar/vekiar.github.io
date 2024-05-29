@@ -2,8 +2,8 @@ title: Vekiar
 baseurl: "/"
 url: "https://vekiar.github.io"
 author:
-  name: Mariano Vecchioli
-  email: mrv@vekiar.com
+  name: "Mariano Vecchioli"
+  email: "mrv@vekiar.com"
 description: >
   The search is lonely, and -at the same time, intimately liberating.
 theme: minima
