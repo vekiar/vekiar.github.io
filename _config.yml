@@ -1,11 +1,15 @@
 title: Vekiar
+baseurl: "/"
+url: "https://vekiar.github.io"
 author:
   name: Mariano Vecchioli
   email: mrv@vekiar.com
 description: >
   The search is lonely, and -at the same time, intimately liberating.
-baseurl: "/"
-url: "https://vekiar.github.io"
 theme: minima
 header_pages:
   - about.md
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/vekiar" }
+    - { platform: x, user_url: "https://x.com/vekiar" }

@@ -3,4 +3,5 @@ title: About
 layout: default
 ---
 
-Where does this go again?
+Who is "Mr. V"?  
+Good question!
