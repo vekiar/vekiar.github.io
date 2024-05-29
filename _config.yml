@@ -5,11 +5,14 @@ author:
   name: "Mariano Vecchioli"
   email: "mrv@vekiar.com"
 description: >
-  The search is lonely, and -at the same time, intimately liberating.
+  The search is lonely, and -at the same time- intimately liberating.
 remote_theme: jekyll/minima
 header_pages:
   - about.md
-  - sections.md
+  - learn.md
+  - brain.md
+  - ideas.md
+  - notes.md
 minima:
   social_links:
     - { platform: github, user_url: "https://github.com/vekiar" }
