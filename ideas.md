@@ -1,4 +1,0 @@
----
-title: ideas
-layout: base
----
