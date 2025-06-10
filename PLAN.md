@@ -44,6 +44,11 @@ PLAN
 - Validation
 - Deployment
 - Inventory
+- Running models
+    - Llama.cpp
+    - vLLM
+    - oLlama
+    - LMStudio
 
 ## Programming Languages
 - C
