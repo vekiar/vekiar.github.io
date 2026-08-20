@@ -2,6 +2,6 @@
 title: about
 layout: base
 ---
-
-Who is "Mr. V"?  
-Good question!
+# Social Contract
+# AI Use Policy
+# Who are you anyway?
