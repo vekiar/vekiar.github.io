@@ -5,5 +5,4 @@ date: 2026-08-26
 categories: maths mathematics thinking
 ---
 
-# Mathematical Potatoes
-Source: https://en.wikipedia.org/wiki/Potato_paradox.  
+Source: [https://en.wikipedia.org/wiki/Potato_paradox](https://en.wikipedia.org/wiki/Potato_paradox).
