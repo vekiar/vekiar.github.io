@@ -2,8 +2,6 @@
 layout: post
 title: "Jaque Mate"
 date: 2026-09-06
-categories: thinking chess
-draft: true
 ---
 Three sets of three rules each.  
 Opening:

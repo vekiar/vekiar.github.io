@@ -2,7 +2,6 @@
 layout: post
 title: "Is DHH (really) nuts?"
 date: 2026-09-25
-categories: nuts dhh omarchy ai
 ---
 
 _Disclaimer_: I have never met, nor have or have ever been affiliated to DHH, nor any of his companies, ventures, hobbies, and / or statements.  

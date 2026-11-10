@@ -2,7 +2,6 @@
 layout: post
 title: "We should all cheer for Omarchy"
 date: 2026-09-05
-categories: technology
 ---
 A few topics for today:  
 1. What is Omarchy?  

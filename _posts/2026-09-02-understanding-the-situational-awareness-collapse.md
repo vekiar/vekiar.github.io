@@ -2,7 +2,6 @@
 layout: post
 title: "Understanding the Situational Awareness Collapse"
 date: 2026-09-02
-categories: finance
 ---
 
 So it finally happened. Situational Awareness, Leopold Aschenbrenner's brainchild, collapsed.  
