@@ -19,4 +19,5 @@ The truth is ideas are seldom brilliant in and by themselves. What ends up makin
 So, how do you solve the challenge of having too many notebooks?  
 
 Just. Write.  
+
 ---
